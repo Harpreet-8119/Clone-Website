@@ -197,7 +197,7 @@
 }
 .section2 .subsec{
      width:100%;
-     background-image: url(../img/img6.jpg);
+     background-image: url(../img6.jpg);
      background-position: top;
      background-size: cover;
      background-repeat: no-repeat;
@@ -628,7 +628,7 @@
     width:50%;
     float: right;
     min-height: 576px;
-    background-image: url(../img/img11.jpg);
+    background-image: url(../img11.jpg);
     background-size: cover;
     background-position: 50%; 
     border-top-right-radius: 8px;
